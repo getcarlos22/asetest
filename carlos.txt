@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is 06F5-FB9E
+
+ Directory of C:\Users\Carlos Adjetey\Desktop\asetest
+
+12/05/2017  01:35 AM    <DIR>          .
+12/05/2017  01:35 AM    <DIR>          ..
+12/05/2017  01:35 AM                 0 carlos.txt
+12/05/2017  01:34 AM               677 Hello.class
+12/05/2017  01:11 AM               153 Hello.java
+12/05/2017  12:42 AM                 0 md
+12/05/2017  12:46 AM                52 README.md
+               5 File(s)            882 bytes
+               2 Dir(s)  157,087,776,768 bytes free
